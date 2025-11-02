@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spotify - Web player music for everyone</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <section class="header">
+        HEAD
+    </section>
+    <section class="left">
+        LEFT
+    </section>
+    <article class="main">
+        CONTENT
+    </article>
+    <aside class="aside">
+        SIDEBAR
+    </aside>
+    <footer class="footer">
+        FOOT
+    </footer>
+</body>
+</html>
