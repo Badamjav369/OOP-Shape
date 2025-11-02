@@ -1,0 +1,24 @@
+body {
+    display: grid;
+    grid-template-rows: auto 100px auto 1fr 90px;
+    grid-template-columns: 1fr 4fr 1fr;
+    height: 100vh;
+    grid-template-areas: 
+    "header header header"
+    "left   main   aside"
+    "left   footer   footer";
+    
+}
+.header{
+    grid-area: header;
+    background-color: red;
+    text-align: center;
+}
+.left{
+    grid-area: left;
+    background-color: aqua;
+    text-align: center;
+    height: 100px;
+
+}
+
